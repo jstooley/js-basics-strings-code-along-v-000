@@ -2,3 +2,5 @@
 let currentUser =  'me'
 
 const welcomeMessage = 'Welcome to Flatbook, !'
+
+const excitedWelcomeMessage = 'WELCOME TO FLATBOOK, '
