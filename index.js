@@ -3,6 +3,6 @@ let currentUser =  'Justin';
 
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
 
-const excitedWelcomeMessage = `WELCOME TO FLATBOOK, ${currentUser}!`;
+const excitedWelcomeMessage = `WELCOME TO FLATBOOK, ${currentUser.tpUpperCase()}!`;
 
 const shortGreeting = `Welcome, ${currentUser}!`;
